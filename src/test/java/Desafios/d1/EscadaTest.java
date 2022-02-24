@@ -1,4 +1,4 @@
-package Desafios.d2;
+package Desafios.d1;
 
 import Desafios.d1.Escada;
 import org.apache.commons.lang3.StringUtils;

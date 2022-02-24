@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f4cb894-328f-48ba-8811-8687dbc391f6" name="Changes" comment="" />
+    <list default="true" id="3f4cb894-328f-48ba-8811-8687dbc391f6" name="Changes" comment="Revizando">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Desafios/d1/ValidarSenhaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Desafios/d2/ValidarSenhaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Desafios/d2/EscadaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Desafios/d1/EscadaTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DesafioCapgemini" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -47,7 +53,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesafioCapgemini" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,8 +63,8 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="Desafios.d1" />
       <recent name="Desafios.d2" />
+      <recent name="Desafios.d1" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Desafios.d1" />
@@ -113,8 +119,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Desafios.d2" />
-      <option name="MAIN_CLASS_NAME" value="Desafios.d2.EscadaTest" />
+      <option name="PACKAGE_NAME" value="Desafios.d1" />
+      <option name="MAIN_CLASS_NAME" value="Desafios.d1.EscadaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,8 +134,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Desafios.d2" />
-      <option name="MAIN_CLASS_NAME" value="Desafios.d2.EscadaTest" />
+      <option name="PACKAGE_NAME" value="Desafios.d1" />
+      <option name="MAIN_CLASS_NAME" value="Desafios.d1.EscadaTest" />
       <option name="METHOD_NAME" value="testSucesso_validarEscada" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -172,14 +178,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Desafios/d2/EscadaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/Desafios/d1/EscadaTest.java</url>
           <line>11</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/Desafios/d2/EscadaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/Desafios/d1/EscadaTest.java</url>
           <line>13</line>
-          <properties class="Desafios.d1.EscadaTest" method="testSucesso_validarEscada">
+          <properties class="Desafios.d2.EscadaTest" method="testSucesso_validarEscada">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

@@ -1,4 +1,4 @@
-package Desafios.d1;
+package Desafios.d2;
 
 import org.junit.jupiter.api.Test;
 
